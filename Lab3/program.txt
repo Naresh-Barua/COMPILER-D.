@@ -1,0 +1,7 @@
+void _ main(){
+	int a, b, c, d;
+        1c = a _ b + d;
+        
+
+}
+
