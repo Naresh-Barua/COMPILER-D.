@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 void _ main(){
 	int a, b, c, d;
         1c = a _ b + d;
@@ -5,3 +6,12 @@ void _ main(){
 
 }
 
+=======
+void _ main(){
+	int a, b, c, d;
+        1c = a _ b + d;
+        
+
+}
+
+>>>>>>> e52e81a3ffda54f25aaade51b504dc032efb4e1f
