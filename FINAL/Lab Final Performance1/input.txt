@@ -1,0 +1,5 @@
+int a, b, c1; 
+a= 10, b= 20; 
+c1 = a + b;
+ 
+this is a program.
